@@ -1627,6 +1627,13 @@ pre .javascript .function {
 #qr p {
   text-align: center;
 }
+.post-body p a {
+  color: #345;
+  border-bottom: none;
+}
+.post-body p a:hover {
+  color: #800080;
+}
 .sidebar {
   background: #222;
   bottom: 0;
@@ -1718,7 +1725,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #3db581;
+  background: #60ff17;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
