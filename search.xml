@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Markdown使用方法]]></title>
+    <url>%2F2019%2F08%2F20%2FMarkdown%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%2F</url>
+    <content type="text"><![CDATA[记录Markdown的使用方法 标题123# 一级标题## 二级标题### 三级标题 列表12345- 列表1 a子列表 b子列表- 列表2- 列表3 插入链接1[我的Github](https://github.com/ArnoChenFx) 我的Github 插入图片1![ARNO](https://avatars2.githubusercontent.com/u/24894259?s=460&amp;v=4) 加横线12---*** 斜字体1*ARNO* ARNO 加粗1**ARNO** ARNO 插入单行代码1`import os` import os 引用1&gt;这是引用的内容 这是引用的内容 多行代码12345678#include &lt;iostream&gt;int main()&#123; std::cout&lt;&lt;"Hello,world!"&lt;&lt;std::endl; system("pause"); return 0;&#125;]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Next配置方法]]></title>
+    <url>%2F2019%2F08%2F20%2FNext%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95%2F</url>
+    <content type="text"><![CDATA[记录Next的配置方法 社交链接1social 头像1avatar 主题样式1Schemes 友情链接1links_layout 开启打赏1reward 公众号1Wechat Subscriber 旋转头像123456789在source/css/——common/components/sidebar/sidebar-author.styl中.site-author-image&#123; border-radius： 50%; transition: 2s all;&#125;.site-author-image:hover&#123; transform: rotate(360deg);&#125; 阅读全文1auto_excerpt 隐藏power1powered 动态背景1canvas]]></content>
+      <categories>
+        <category>Blog配置</category>
+      </categories>
+      <tags>
+        <tag>Blog配置</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[第一篇博客]]></title>
+    <url>%2F2019%2F08%2F20%2F%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo使用方法]]></title>
+    <url>%2F2019%2F08%2F18%2FHexo%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%2F</url>
+    <content type="text"><![CDATA[记录Hexo的使用 创建标签1hexo n page tags 创建分类1hexo n page categories 创建一篇新文章1hexo n "My New Post" 开启服务1hexo s 生成静态文件1hexo g Deploy to remote sites1hexo d]]></content>
+      <categories>
+        <category>Blog配置</category>
+      </categories>
+      <tags>
+        <tag>Blog配置</tag>
+      </tags>
+  </entry>
+</search>
